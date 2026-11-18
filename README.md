@@ -2,8 +2,8 @@
 
 ## GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u8-zawa&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=u8-zawa&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=u8-zawa&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=u8-zawa&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=u8-zawa&theme=nord_bright&utcOffset=9)
+![Profile details](./profile-summary-card-output/nord_bright/0-profile-details.svg)
+
+![Repos per language](./profile-summary-card-output/nord_bright/1-repos-per-language.svg) ![Most commit language](./profile-summary-card-output/nord_bright/2-most-commit-language.svg)
+
+![Stats](./profile-summary-card-output/nord_bright/3-stats.svg) ![Productive time](./profile-summary-card-output/nord_bright/4-productive-time.svg)
